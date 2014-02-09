@@ -1,0 +1,5120 @@
+
+
+*******************************************************************************
+Fri Oct 11 11:11:59 2013
+
+
+FIT:    data read from '8_sonar_vz.txt' using 1:2
+        format = x:z
+        #datapoints = 13
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 26368.5           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 31.233
+
+initial set of free parameter values
+
+A               = 1
+B               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 8.33247e-006
+rel. change during last iteration : -1.01654e-015
+
+degrees of freedom    (FIT_NDF)                        : 11
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000870343
+variance of residuals (reduced chisquare) = WSSR/ndf   : 7.57498e-007
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+A               = 4.0989e-005      +/- 1.29e-005    (31.48%)
+B               = 0.0303451        +/- 0.0005698    (1.878%)
+
+
+correlation matrix of the fit parameters:
+
+               A      B      
+A               1.000 
+B              -0.906  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 11:14:13 2013
+
+
+FIT:    data read from '8_sonar_vz.txt' using 1:2
+        format = x:z
+        #datapoints = 13
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.24317e+007      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 31.233
+
+initial set of free parameter values
+
+A               = 1
+B               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 1928.57
+rel. change during last iteration : -2.85703e-010
+
+degrees of freedom    (FIT_NDF)                        : 11
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 13.241
+variance of residuals (reduced chisquare) = WSSR/ndf   : 175.325
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+A               = 29.9934          +/- 0.1963       (0.6545%)
+B               = 37.5714          +/- 8.668        (23.07%)
+
+
+correlation matrix of the fit parameters:
+
+               A      B      
+A               1.000 
+B              -0.906  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 11:14:44 2013
+
+
+FIT:    data read from '8_sonar_vz.txt' using 1:2
+        format = x:z
+        #datapoints = 13
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.24317e+007      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 31.233
+
+initial set of free parameter values
+
+A               = 1
+B               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 1928.57
+rel. change during last iteration : -2.85703e-010
+
+degrees of freedom    (FIT_NDF)                        : 11
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 13.241
+variance of residuals (reduced chisquare) = WSSR/ndf   : 175.325
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+A               = 29.9934          +/- 0.1963       (0.6545%)
+B               = 37.5714          +/- 8.668        (23.07%)
+
+
+correlation matrix of the fit parameters:
+
+               A      B      
+A               1.000 
+B              -0.906  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 11:16:38 2013
+
+
+FIT:    data read from '8_sonar_vz.txt' using 1:2
+        format = x:z
+        #datapoints = 13
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.24317e+007      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 31.233
+
+initial set of free parameter values
+
+A               = 1
+B               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 1928.57
+rel. change during last iteration : -2.85703e-010
+
+degrees of freedom    (FIT_NDF)                        : 11
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 13.241
+variance of residuals (reduced chisquare) = WSSR/ndf   : 175.325
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+A               = 29.9934          +/- 0.1963       (0.6545%)
+B               = 37.5714          +/- 8.668        (23.07%)
+
+
+correlation matrix of the fit parameters:
+
+               A      B      
+A               1.000 
+B              -0.906  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 11:17:06 2013
+
+
+FIT:    data read from '8_sonar_vz.txt' using 1:2
+        format = x:z
+        #datapoints = 13
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.24317e+007      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 31.233
+
+initial set of free parameter values
+
+A               = 1
+B               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 1928.57
+rel. change during last iteration : -2.85703e-010
+
+degrees of freedom    (FIT_NDF)                        : 11
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 13.241
+variance of residuals (reduced chisquare) = WSSR/ndf   : 175.325
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+A               = 29.9934          +/- 0.1963       (0.6545%)
+B               = 37.5714          +/- 8.668        (23.07%)
+
+
+correlation matrix of the fit parameters:
+
+               A      B      
+A               1.000 
+B              -0.906  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 11:34:52 2013
+
+
+FIT:    data read from '8_sonar_vz.txt' using 1:2
+        format = x:z
+        #datapoints = 13
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.24317e+007      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 31.233
+
+initial set of free parameter values
+
+A               = 1
+B               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 1928.57
+rel. change during last iteration : -2.85703e-010
+
+degrees of freedom    (FIT_NDF)                        : 11
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 13.241
+variance of residuals (reduced chisquare) = WSSR/ndf   : 175.325
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+A               = 29.9934          +/- 0.1963       (0.6545%)
+B               = 37.5714          +/- 8.668        (23.07%)
+
+
+correlation matrix of the fit parameters:
+
+               A      B      
+A               1.000 
+B              -0.906  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 11:35:06 2013
+
+
+FIT:    data read from '8_sonar_vz.txt' using 1:2
+        format = x:z
+        #datapoints = 13
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.24317e+007      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 31.233
+
+initial set of free parameter values
+
+A               = 1
+B               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 1928.57
+rel. change during last iteration : -2.85703e-010
+
+degrees of freedom    (FIT_NDF)                        : 11
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 13.241
+variance of residuals (reduced chisquare) = WSSR/ndf   : 175.325
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+A               = 29.9934          +/- 0.1963       (0.6545%)
+B               = 37.5714          +/- 8.668        (23.07%)
+
+
+correlation matrix of the fit parameters:
+
+               A      B      
+A               1.000 
+B              -0.906  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 11:35:17 2013
+
+
+FIT:    data read from '8_sonar_vz.txt' using 1:2
+        format = x:z
+        #datapoints = 13
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.24317e+007      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 31.233
+
+initial set of free parameter values
+
+A               = 1
+B               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 1928.57
+rel. change during last iteration : -2.85703e-010
+
+degrees of freedom    (FIT_NDF)                        : 11
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 13.241
+variance of residuals (reduced chisquare) = WSSR/ndf   : 175.325
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+A               = 29.9934          +/- 0.1963       (0.6545%)
+B               = 37.5714          +/- 8.668        (23.07%)
+
+
+correlation matrix of the fit parameters:
+
+               A      B      
+A               1.000 
+B              -0.906  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 11:36:54 2013
+
+
+FIT:    data read from '8_sonar_vz.txt' using 1:2
+        format = x:z
+        #datapoints = 13
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.24317e+007      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 31.233
+
+initial set of free parameter values
+
+A               = 1
+B               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 1928.57
+rel. change during last iteration : -2.85703e-010
+
+degrees of freedom    (FIT_NDF)                        : 11
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 13.241
+variance of residuals (reduced chisquare) = WSSR/ndf   : 175.325
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+A               = 29.9934          +/- 0.1963       (0.6545%)
+B               = 37.5714          +/- 8.668        (23.07%)
+
+
+correlation matrix of the fit parameters:
+
+               A      B      
+A               1.000 
+B              -0.906  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 11:37:00 2013
+
+
+FIT:    data read from '8_sonar_vz.txt' using 1:2
+        format = x:z
+        #datapoints = 13
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 2.24317e+007      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 31.233
+
+initial set of free parameter values
+
+A               = 1
+B               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 1928.57
+rel. change during last iteration : -2.85703e-010
+
+degrees of freedom    (FIT_NDF)                        : 11
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 13.241
+variance of residuals (reduced chisquare) = WSSR/ndf   : 175.325
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+A               = 29.9934          +/- 0.1963       (0.6545%)
+B               = 37.5714          +/- 8.668        (23.07%)
+
+
+correlation matrix of the fit parameters:
+
+               A      B      
+A               1.000 
+B              -0.906  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 11:46:06 2013
+
+
+FIT:    data read from '8_sonar_vz.txt' using 1:2
+        format = x:z
+        #datapoints = 13
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 24835.1           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 31.233
+
+initial set of free parameter values
+
+A               = 1
+B               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.00192857
+rel. change during last iteration : -1.96094e-007
+
+degrees of freedom    (FIT_NDF)                        : 11
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.013241
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000175325
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+A               = 0.0299934        +/- 0.0001963    (0.6545%)
+B               = 0.0375714        +/- 0.008668     (23.07%)
+
+
+correlation matrix of the fit parameters:
+
+               A      B      
+A               1.000 
+B              -0.906  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 11:47:21 2013
+
+
+FIT:    data read from '8_sonar_vz.txt' using 1:2
+        format = x:z
+        #datapoints = 13
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 22819.4           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1.19288
+
+initial set of free parameter values
+
+A               = 1
+B               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 2.14279
+rel. change during last iteration : -5.60774e-011
+
+degrees of freedom    (FIT_NDF)                        : 11
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.44136
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.194799
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+A               = 33.325           +/- 0.2181       (0.6545%)
+B               = -1.23323         +/- 0.2963       (24.03%)
+
+
+correlation matrix of the fit parameters:
+
+               A      B      
+A               1.000 
+B              -0.911  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 11:47:48 2013
+
+
+FIT:    data read from '8_sonar_vz.txt' using 1:2
+        format = x:z
+        #datapoints = 13
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 22819.4           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1.19288
+
+initial set of free parameter values
+
+A               = 1
+B               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 2.14279
+rel. change during last iteration : -5.60774e-011
+
+degrees of freedom    (FIT_NDF)                        : 11
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.44136
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.194799
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+A               = 33.325           +/- 0.2181       (0.6545%)
+B               = -1.23323         +/- 0.2963       (24.03%)
+
+
+correlation matrix of the fit parameters:
+
+               A      B      
+A               1.000 
+B              -0.911  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 11:48:29 2013
+
+
+FIT:    data read from '8_sonar_vz.txt' using 1:2
+        format = x:z
+        #datapoints = 13
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 22819.4           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1.19288
+
+initial set of free parameter values
+
+A               = 1
+B               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 2.14279
+rel. change during last iteration : -5.60774e-011
+
+degrees of freedom    (FIT_NDF)                        : 11
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.44136
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.194799
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+A               = 33.325           +/- 0.2181       (0.6545%)
+B               = -1.23323         +/- 0.2963       (24.03%)
+
+
+correlation matrix of the fit parameters:
+
+               A      B      
+A               1.000 
+B              -0.911  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 11:48:43 2013
+
+
+FIT:    data read from '8_sonar_vz.txt' using 1:2
+        format = x:z
+        #datapoints = 13
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 22819.4           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1.19288
+
+initial set of free parameter values
+
+A               = 1
+B               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 2.14279
+rel. change during last iteration : -5.60774e-011
+
+degrees of freedom    (FIT_NDF)                        : 11
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.44136
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.194799
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+A               = 33.325           +/- 0.2181       (0.6545%)
+B               = -1.23323         +/- 0.2963       (24.03%)
+
+
+correlation matrix of the fit parameters:
+
+               A      B      
+A               1.000 
+B              -0.911  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 11:49:13 2013
+
+
+FIT:    data read from '8_sonar_vz.txt' using 1:2
+        format = x:z
+        #datapoints = 13
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 22819.4           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1.19288
+
+initial set of free parameter values
+
+A               = 1
+B               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 2.14279
+rel. change during last iteration : -5.60774e-011
+
+degrees of freedom    (FIT_NDF)                        : 11
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.44136
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.194799
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+A               = 33.325           +/- 0.2181       (0.6545%)
+B               = -1.23323         +/- 0.2963       (24.03%)
+
+
+correlation matrix of the fit parameters:
+
+               A      B      
+A               1.000 
+B              -0.911  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 11:49:28 2013
+
+
+FIT:    data read from '8_sonar_vz.txt' using 1:2
+        format = x:z
+        #datapoints = 13
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 22819.4           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1.19288
+
+initial set of free parameter values
+
+A               = 1
+B               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 2.14279
+rel. change during last iteration : -5.60774e-011
+
+degrees of freedom    (FIT_NDF)                        : 11
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.44136
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.194799
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+A               = 33.325           +/- 0.2181       (0.6545%)
+B               = -1.23323         +/- 0.2963       (24.03%)
+
+
+correlation matrix of the fit parameters:
+
+               A      B      
+A               1.000 
+B              -0.911  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 12:06:59 2013
+
+
+FIT:    data read from '8_sonar_vz.txt' using 1:2
+        format = x:z
+        #datapoints = 13
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 22819.4           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1.19288
+
+initial set of free parameter values
+
+A               = 1
+B               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 2.14279
+rel. change during last iteration : -5.60774e-011
+
+degrees of freedom    (FIT_NDF)                        : 11
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.44136
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.194799
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+A               = 33.325           +/- 0.2181       (0.6545%)
+B               = -1.23323         +/- 0.2963       (24.03%)
+
+
+correlation matrix of the fit parameters:
+
+               A      B      
+A               1.000 
+B              -0.911  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 12:48:06 2013
+
+
+FIT:    data read from '8_sonar_zk_data_1.txt' using 4:3
+        format = x:z
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 3.28008e+006      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 420.516
+
+initial set of free parameter values
+
+A               = 1
+B               = 1
+C               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 5.19429
+rel. change during last iteration : -6.53703e-007
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.13955
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.29857
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+A               = -0.00978571      +/- 0.001243     (12.71%)
+B               = -0.0121429       +/- 0.0329       (270.9%)
+C               = 49.6571          +/- 0.6091       (1.227%)
+
+
+correlation matrix of the fit parameters:
+
+               A      B      C      
+A               1.000 
+B               0.756  1.000 
+C              -0.612 -0.231  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 12:48:43 2013
+
+
+FIT:    data read from '8_sonar_zk_data_1.txt' using 4:3
+        format = x:z
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 3.28008e+006      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 420.516
+
+initial set of free parameter values
+
+A               = 1
+B               = 1
+C               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 5.19429
+rel. change during last iteration : -6.53703e-007
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.13955
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.29857
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+A               = -0.00978571      +/- 0.001243     (12.71%)
+B               = -0.0121429       +/- 0.0329       (270.9%)
+C               = 49.6571          +/- 0.6091       (1.227%)
+
+
+correlation matrix of the fit parameters:
+
+               A      B      C      
+A               1.000 
+B               0.756  1.000 
+C              -0.612 -0.231  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 12:48:43 2013
+
+
+FIT:    data read from '8_sonar_zk_data_1.txt' using 4:3
+        format = x:z
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 3.28008e+006      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 420.516
+
+initial set of free parameter values
+
+A               = 1
+B               = 1
+C               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 5.19429
+rel. change during last iteration : -6.53703e-007
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.13955
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.29857
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+A               = -0.00978571      +/- 0.001243     (12.71%)
+B               = -0.0121429       +/- 0.0329       (270.9%)
+C               = 49.6571          +/- 0.6091       (1.227%)
+
+
+correlation matrix of the fit parameters:
+
+               A      B      C      
+A               1.000 
+B               0.756  1.000 
+C              -0.612 -0.231  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 12:49:08 2013
+
+
+FIT:    data read from '8_sonar_zk_data_1.txt' using 4:3
+        format = x:z
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 3.28008e+006      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 420.516
+
+initial set of free parameter values
+
+A               = 1
+B               = 1
+C               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 5.19429
+rel. change during last iteration : -6.53703e-007
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.13955
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.29857
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+A               = -0.00978571      +/- 0.001243     (12.71%)
+B               = -0.0121429       +/- 0.0329       (270.9%)
+C               = 49.6571          +/- 0.6091       (1.227%)
+
+
+correlation matrix of the fit parameters:
+
+               A      B      C      
+A               1.000 
+B               0.756  1.000 
+C              -0.612 -0.231  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 12:49:20 2013
+
+
+FIT:    data read from '8_sonar_zk_data_1.txt' using 4:3
+        format = x:z
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 3.28008e+006      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 420.516
+
+initial set of free parameter values
+
+A               = 1
+B               = 1
+C               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 5.19429
+rel. change during last iteration : -6.53703e-007
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.13955
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.29857
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+A               = -0.00978571      +/- 0.001243     (12.71%)
+B               = -0.0121429       +/- 0.0329       (270.9%)
+C               = 49.6571          +/- 0.6091       (1.227%)
+
+
+correlation matrix of the fit parameters:
+
+               A      B      C      
+A               1.000 
+B               0.756  1.000 
+C              -0.612 -0.231  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 12:50:19 2013
+
+
+FIT:    data read from '8_sonar_zk_data_1.txt' using 4:3
+        format = x:z
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 3.28008e+006      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 420.516
+
+initial set of free parameter values
+
+A               = 1
+B               = 1
+C               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 5.19429
+rel. change during last iteration : -6.53703e-007
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.13955
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.29857
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+A               = -0.00978571      +/- 0.001243     (12.71%)
+B               = -0.0121429       +/- 0.0329       (270.9%)
+C               = 49.6571          +/- 0.6091       (1.227%)
+
+
+correlation matrix of the fit parameters:
+
+               A      B      C      
+A               1.000 
+B               0.756  1.000 
+C              -0.612 -0.231  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 12:50:34 2013
+
+
+FIT:    data read from '8_sonar_zk_data_1.txt' using 4:3
+        format = x:z
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 3.28008e+006      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 420.516
+
+initial set of free parameter values
+
+A               = 1
+B               = 1
+C               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 5.19429
+rel. change during last iteration : -6.53703e-007
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.13955
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.29857
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+A               = -0.00978571      +/- 0.001243     (12.71%)
+B               = -0.0121429       +/- 0.0329       (270.9%)
+C               = 49.6571          +/- 0.6091       (1.227%)
+
+
+correlation matrix of the fit parameters:
+
+               A      B      C      
+A               1.000 
+B               0.756  1.000 
+C              -0.612 -0.231  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 12:52:08 2013
+
+
+FIT:    data read from '8_sonar_zk_data_1.txt' using 4:3
+        format = x:z
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 3.28008e+006      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 420.516
+
+initial set of free parameter values
+
+A               = 1
+B               = 1
+C               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 5.19429
+rel. change during last iteration : -6.53703e-007
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.13955
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.29857
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+A               = -0.00978571      +/- 0.001243     (12.71%)
+B               = -0.0121429       +/- 0.0329       (270.9%)
+C               = 49.6571          +/- 0.6091       (1.227%)
+
+
+correlation matrix of the fit parameters:
+
+               A      B      C      
+A               1.000 
+B               0.756  1.000 
+C              -0.612 -0.231  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 12:52:08 2013
+
+
+FIT:    data read from '8_sonar_zk_data_2.txt' using 4:3
+        format = x:z
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 56.3414           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 0
+
+initial set of free parameter values
+
+D               = 1
+E               = 1
+F               = 1
+BREAK:          Singular matrix in Givens()
+
+
+
+*******************************************************************************
+Fri Oct 11 12:52:29 2013
+
+
+FIT:    data read from '8_sonar_zk_data_1.txt' using 4:3
+        format = x:z
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 3.28008e+006      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 420.516
+
+initial set of free parameter values
+
+A               = 1
+B               = 1
+C               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 5.19429
+rel. change during last iteration : -6.53703e-007
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.13955
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.29857
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+A               = -0.00978571      +/- 0.001243     (12.71%)
+B               = -0.0121429       +/- 0.0329       (270.9%)
+C               = 49.6571          +/- 0.6091       (1.227%)
+
+
+correlation matrix of the fit parameters:
+
+               A      B      C      
+A               1.000 
+B               0.756  1.000 
+C              -0.612 -0.231  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 12:52:29 2013
+
+
+FIT:    data read from '8_sonar_zk_data_2.txt' using 4:3
+        format = x:z
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 56.3414           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 0
+
+initial set of free parameter values
+
+D               = 1
+E               = 1
+F               = 1
+BREAK:          Singular matrix in Givens()
+
+
+
+*******************************************************************************
+Fri Oct 11 12:52:37 2013
+
+
+FIT:    data read from '8_sonar_zk_data_1.txt' using 4:3
+        format = x:z
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 3.28008e+006      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 420.516
+
+initial set of free parameter values
+
+A               = 1
+B               = 1
+C               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 5.19429
+rel. change during last iteration : -6.53703e-007
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.13955
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.29857
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+A               = -0.00978571      +/- 0.001243     (12.71%)
+B               = -0.0121429       +/- 0.0329       (270.9%)
+C               = 49.6571          +/- 0.6091       (1.227%)
+
+
+correlation matrix of the fit parameters:
+
+               A      B      C      
+A               1.000 
+B               0.756  1.000 
+C              -0.612 -0.231  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 12:52:37 2013
+
+
+FIT:    data read from '8_sonar_zk_data_2.txt' using 4:3
+        format = x:z
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 56.3414           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 0
+
+initial set of free parameter values
+
+D               = 1
+E               = 1
+F               = 1
+BREAK:          Singular matrix in Givens()
+
+
+
+*******************************************************************************
+Fri Oct 11 12:52:59 2013
+
+
+FIT:    data read from '8_sonar_zk_data_1.txt' using 4:3
+        format = x:z
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 3.28008e+006      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 420.516
+
+initial set of free parameter values
+
+A               = 1
+B               = 1
+C               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 5.19429
+rel. change during last iteration : -6.53703e-007
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.13955
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.29857
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+A               = -0.00978571      +/- 0.001243     (12.71%)
+B               = -0.0121429       +/- 0.0329       (270.9%)
+C               = 49.6571          +/- 0.6091       (1.227%)
+
+
+correlation matrix of the fit parameters:
+
+               A      B      C      
+A               1.000 
+B               0.756  1.000 
+C              -0.612 -0.231  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 12:52:59 2013
+
+
+FIT:    data read from '8_sonar_zk_data_2.txt' using 4:3
+        format = x:z
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.72506e+006      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 305.724
+
+initial set of free parameter values
+
+D               = 1
+E               = 1
+F               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 0.27381
+rel. change during last iteration : -1.38704e-006
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.261634
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0684524
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+D               = -0.00686905      +/- 0.0002855    (4.156%)
+E               = -0.0317857       +/- 0.004944     (15.56%)
+F               = 51.1048          +/- 0.1511       (0.2956%)
+
+
+correlation matrix of the fit parameters:
+
+               D      E      F      
+D               1.000 
+E               0.000  1.000 
+F              -0.756 -0.000  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 12:52:59 2013
+
+
+FIT:    data read from '8_sonar_zk_data_3.txt' using 4:3
+        format = x:z
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: h(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 3.26721e+006      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 420.516
+
+initial set of free parameter values
+
+G               = 1
+H               = 1
+I               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 3.24143
+rel. change during last iteration : -1.03465e-006
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.900198
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.810357
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+G               = -0.00689286      +/- 0.0009822    (14.25%)
+H               = 0.0196429        +/- 0.02599      (132.3%)
+I               = 49.3571          +/- 0.4812       (0.9749%)
+
+
+correlation matrix of the fit parameters:
+
+               G      H      I      
+G               1.000 
+H               0.756  1.000 
+I              -0.612 -0.231  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 12:54:37 2013
+
+
+FIT:    data read from '8_sonar_zk_data_1.txt' using 4:3
+        format = x:z
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 4.7188e+009       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 13307.8
+
+initial set of free parameter values
+
+A               = 1
+B               = 1
+C               = 1
+Z               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 3.69429
+rel. change during last iteration : -1.13134e-010
+
+degrees of freedom    (FIT_NDF)                        : 3
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.1097
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.23143
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+A               = -0.0122857       +/- 0.002568     (20.91%)
+B               = 0.0211905        +/- 0.04403      (207.8%)
+C               = 50.1571          +/- 0.7464       (1.488%)
+Z               = -8.33333e-005    +/- 7.551e-005   (90.61%)
+
+
+correlation matrix of the fit parameters:
+
+               A      B      C      Z      
+A               1.000 
+B              -0.346  1.000 
+C              -0.765  0.283  1.000 
+Z               0.882 -0.686 -0.607  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 12:54:37 2013
+
+
+FIT:    data read from '8_sonar_zk_data_2.txt' using 4:3
+        format = x:z
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.59377e+009      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 7535.54
+
+initial set of free parameter values
+
+D               = 1
+E               = 1
+F               = 1
+Y               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.27381
+rel. change during last iteration : -4.48856e-010
+
+degrees of freedom    (FIT_NDF)                        : 3
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.302109
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0912698
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+D               = -0.00686905      +/- 0.0003296    (4.799%)
+E               = -0.0317857       +/- 0.01548      (48.71%)
+F               = 51.1048          +/- 0.1744       (0.3413%)
+Y               = -1.55884e-012    +/- 2.056e-005   (1.319e+009%)
+
+
+correlation matrix of the fit parameters:
+
+               D      E      F      Y      
+D               1.000 
+E               0.000  1.000 
+F              -0.756 -0.000  1.000 
+Y              -0.000 -0.930  0.000  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 12:54:37 2013
+
+
+FIT:    data read from '8_sonar_zk_data_3.txt' using 4:3
+        format = x:z
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: h(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 4.71915e+009      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 13307.8
+
+initial set of free parameter values
+
+G               = 1
+H               = 1
+I               = 1
+X               = 1
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0.834762
+rel. change during last iteration : -4.71876e-010
+
+degrees of freedom    (FIT_NDF)                        : 3
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.527498
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.278254
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+G               = -0.00372619      +/- 0.001221     (32.77%)
+H               = -0.0225794       +/- 0.02093      (92.69%)
+I               = 48.7238          +/- 0.3548       (0.7282%)
+X               = 0.000105556      +/- 3.589e-005   (34%)
+
+
+correlation matrix of the fit parameters:
+
+               G      H      I      X      
+G               1.000 
+H              -0.346  1.000 
+I              -0.765  0.283  1.000 
+X               0.882 -0.686 -0.607  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 12:55:43 2013
+
+
+FIT:    data read from '8_sonar_zk_data_1.txt' using 4:3
+        format = x:z
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 3.28008e+006      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 420.516
+
+initial set of free parameter values
+
+A               = 1
+B               = 1
+C               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 5.19429
+rel. change during last iteration : -6.53703e-007
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.13955
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.29857
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+A               = -0.00978571      +/- 0.001243     (12.71%)
+B               = -0.0121429       +/- 0.0329       (270.9%)
+C               = 49.6571          +/- 0.6091       (1.227%)
+
+
+correlation matrix of the fit parameters:
+
+               A      B      C      
+A               1.000 
+B               0.756  1.000 
+C              -0.612 -0.231  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 12:55:43 2013
+
+
+FIT:    data read from '8_sonar_zk_data_2.txt' using 4:3
+        format = x:z
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.72506e+006      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 305.724
+
+initial set of free parameter values
+
+D               = 1
+E               = 1
+F               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 0.27381
+rel. change during last iteration : -1.38704e-006
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.261634
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0684524
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+D               = -0.00686905      +/- 0.0002855    (4.156%)
+E               = -0.0317857       +/- 0.004944     (15.56%)
+F               = 51.1048          +/- 0.1511       (0.2956%)
+
+
+correlation matrix of the fit parameters:
+
+               D      E      F      
+D               1.000 
+E               0.000  1.000 
+F              -0.756 -0.000  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 12:55:43 2013
+
+
+FIT:    data read from '8_sonar_zk_data_3.txt' using 4:3
+        format = x:z
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: h(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 3.26721e+006      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 420.516
+
+initial set of free parameter values
+
+G               = 1
+H               = 1
+I               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 3.24143
+rel. change during last iteration : -1.03465e-006
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.900198
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.810357
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+G               = -0.00689286      +/- 0.0009822    (14.25%)
+H               = 0.0196429        +/- 0.02599      (132.3%)
+I               = 49.3571          +/- 0.4812       (0.9749%)
+
+
+correlation matrix of the fit parameters:
+
+               G      H      I      
+G               1.000 
+H               0.756  1.000 
+I              -0.612 -0.231  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 12:56:39 2013
+
+
+FIT:    data read from '8_sonar_zk_data_1.txt' using 4:3
+        format = x:z
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 3.28008e+006      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 420.516
+
+initial set of free parameter values
+
+A               = 1
+B               = 1
+C               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 5.19429
+rel. change during last iteration : -6.53703e-007
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.13955
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.29857
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+A               = -0.00978571      +/- 0.001243     (12.71%)
+B               = -0.0121429       +/- 0.0329       (270.9%)
+C               = 49.6571          +/- 0.6091       (1.227%)
+
+
+correlation matrix of the fit parameters:
+
+               A      B      C      
+A               1.000 
+B               0.756  1.000 
+C              -0.612 -0.231  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 12:56:39 2013
+
+
+FIT:    data read from '8_sonar_zk_data_2.txt' using 4:3
+        format = x:z
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.72506e+006      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 305.724
+
+initial set of free parameter values
+
+D               = 1
+E               = 1
+F               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 0.27381
+rel. change during last iteration : -1.38704e-006
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.261634
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0684524
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+D               = -0.00686905      +/- 0.0002855    (4.156%)
+E               = -0.0317857       +/- 0.004944     (15.56%)
+F               = 51.1048          +/- 0.1511       (0.2956%)
+
+
+correlation matrix of the fit parameters:
+
+               D      E      F      
+D               1.000 
+E               0.000  1.000 
+F              -0.756 -0.000  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 12:56:39 2013
+
+
+FIT:    data read from '8_sonar_zk_data_3.txt' using 4:3
+        format = x:z
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: h(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 3.26721e+006      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 420.516
+
+initial set of free parameter values
+
+G               = 1
+H               = 1
+I               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 3.24143
+rel. change during last iteration : -1.03465e-006
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.900198
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.810357
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+G               = -0.00689286      +/- 0.0009822    (14.25%)
+H               = 0.0196429        +/- 0.02599      (132.3%)
+I               = 49.3571          +/- 0.4812       (0.9749%)
+
+
+correlation matrix of the fit parameters:
+
+               G      H      I      
+G               1.000 
+H               0.756  1.000 
+I              -0.612 -0.231  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 12:57:08 2013
+
+
+FIT:    data read from '8_sonar_zk_data_1.txt' using 4:3
+        format = x:z
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 3.28008e+006      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 420.516
+
+initial set of free parameter values
+
+A               = 1
+B               = 1
+C               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 5.19429
+rel. change during last iteration : -6.53703e-007
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.13955
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.29857
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+A               = -0.00978571      +/- 0.001243     (12.71%)
+B               = -0.0121429       +/- 0.0329       (270.9%)
+C               = 49.6571          +/- 0.6091       (1.227%)
+
+
+correlation matrix of the fit parameters:
+
+               A      B      C      
+A               1.000 
+B               0.756  1.000 
+C              -0.612 -0.231  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 12:57:08 2013
+
+
+FIT:    data read from '8_sonar_zk_data_2.txt' using 4:3
+        format = x:z
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.72506e+006      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 305.724
+
+initial set of free parameter values
+
+D               = 1
+E               = 1
+F               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 0.27381
+rel. change during last iteration : -1.38704e-006
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.261634
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0684524
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+D               = -0.00686905      +/- 0.0002855    (4.156%)
+E               = -0.0317857       +/- 0.004944     (15.56%)
+F               = 51.1048          +/- 0.1511       (0.2956%)
+
+
+correlation matrix of the fit parameters:
+
+               D      E      F      
+D               1.000 
+E               0.000  1.000 
+F              -0.756 -0.000  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 12:57:08 2013
+
+
+FIT:    data read from '8_sonar_zk_data_3.txt' using 4:3
+        format = x:z
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: h(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 3.26721e+006      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 420.516
+
+initial set of free parameter values
+
+G               = 1
+H               = 1
+I               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 3.24143
+rel. change during last iteration : -1.03465e-006
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.900198
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.810357
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+G               = -0.00689286      +/- 0.0009822    (14.25%)
+H               = 0.0196429        +/- 0.02599      (132.3%)
+I               = 49.3571          +/- 0.4812       (0.9749%)
+
+
+correlation matrix of the fit parameters:
+
+               G      H      I      
+G               1.000 
+H               0.756  1.000 
+I              -0.612 -0.231  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 12:57:25 2013
+
+
+FIT:    data read from '8_sonar_zk_data_1.txt' using 4:3
+        format = x:z
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 3.28008e+006      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 420.516
+
+initial set of free parameter values
+
+A               = 1
+B               = 1
+C               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 5.19429
+rel. change during last iteration : -6.53703e-007
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.13955
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.29857
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+A               = -0.00978571      +/- 0.001243     (12.71%)
+B               = -0.0121429       +/- 0.0329       (270.9%)
+C               = 49.6571          +/- 0.6091       (1.227%)
+
+
+correlation matrix of the fit parameters:
+
+               A      B      C      
+A               1.000 
+B               0.756  1.000 
+C              -0.612 -0.231  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 12:57:25 2013
+
+
+FIT:    data read from '8_sonar_zk_data_2.txt' using 4:3
+        format = x:z
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.72506e+006      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 305.724
+
+initial set of free parameter values
+
+D               = 1
+E               = 1
+F               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 0.27381
+rel. change during last iteration : -1.38704e-006
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.261634
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0684524
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+D               = -0.00686905      +/- 0.0002855    (4.156%)
+E               = -0.0317857       +/- 0.004944     (15.56%)
+F               = 51.1048          +/- 0.1511       (0.2956%)
+
+
+correlation matrix of the fit parameters:
+
+               D      E      F      
+D               1.000 
+E               0.000  1.000 
+F              -0.756 -0.000  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 12:57:25 2013
+
+
+FIT:    data read from '8_sonar_zk_data_3.txt' using 4:3
+        format = x:z
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: h(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 3.26721e+006      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 420.516
+
+initial set of free parameter values
+
+G               = 1
+H               = 1
+I               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 3.24143
+rel. change during last iteration : -1.03465e-006
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.900198
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.810357
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+G               = -0.00689286      +/- 0.0009822    (14.25%)
+H               = 0.0196429        +/- 0.02599      (132.3%)
+I               = 49.3571          +/- 0.4812       (0.9749%)
+
+
+correlation matrix of the fit parameters:
+
+               G      H      I      
+G               1.000 
+H               0.756  1.000 
+I              -0.612 -0.231  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 12:58:28 2013
+
+
+FIT:    data read from '8_sonar_zk_data_1.txt' using 4:3
+        format = x:z
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 3.28008e+006      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 420.516
+
+initial set of free parameter values
+
+A               = 1
+B               = 1
+C               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 5.19429
+rel. change during last iteration : -6.53703e-007
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.13955
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.29857
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+A               = -0.00978571      +/- 0.001243     (12.71%)
+B               = -0.0121429       +/- 0.0329       (270.9%)
+C               = 49.6571          +/- 0.6091       (1.227%)
+
+
+correlation matrix of the fit parameters:
+
+               A      B      C      
+A               1.000 
+B               0.756  1.000 
+C              -0.612 -0.231  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 12:58:28 2013
+
+
+FIT:    data read from '8_sonar_zk_data_2.txt' using 4:3
+        format = x:z
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.72506e+006      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 305.724
+
+initial set of free parameter values
+
+D               = 1
+E               = 1
+F               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 0.27381
+rel. change during last iteration : -1.38704e-006
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.261634
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0684524
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+D               = -0.00686905      +/- 0.0002855    (4.156%)
+E               = -0.0317857       +/- 0.004944     (15.56%)
+F               = 51.1048          +/- 0.1511       (0.2956%)
+
+
+correlation matrix of the fit parameters:
+
+               D      E      F      
+D               1.000 
+E               0.000  1.000 
+F              -0.756 -0.000  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 12:58:28 2013
+
+
+FIT:    data read from '8_sonar_zk_data_3.txt' using 4:3
+        format = x:z
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: h(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 3.26721e+006      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 420.516
+
+initial set of free parameter values
+
+G               = 1
+H               = 1
+I               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 3.24143
+rel. change during last iteration : -1.03465e-006
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.900198
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.810357
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+G               = -0.00689286      +/- 0.0009822    (14.25%)
+H               = 0.0196429        +/- 0.02599      (132.3%)
+I               = 49.3571          +/- 0.4812       (0.9749%)
+
+
+correlation matrix of the fit parameters:
+
+               G      H      I      
+G               1.000 
+H               0.756  1.000 
+I              -0.612 -0.231  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 12:59:21 2013
+
+
+FIT:    data read from '8_sonar_zk_data_1.txt' using 4:3
+        format = x:z
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 3.28008e+006      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 420.516
+
+initial set of free parameter values
+
+A               = 1
+B               = 1
+C               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 5.19429
+rel. change during last iteration : -6.53703e-007
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.13955
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.29857
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+A               = -0.00978571      +/- 0.001243     (12.71%)
+B               = -0.0121429       +/- 0.0329       (270.9%)
+C               = 49.6571          +/- 0.6091       (1.227%)
+
+
+correlation matrix of the fit parameters:
+
+               A      B      C      
+A               1.000 
+B               0.756  1.000 
+C              -0.612 -0.231  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 12:59:22 2013
+
+
+FIT:    data read from '8_sonar_zk_data_2.txt' using 4:3
+        format = x:z
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.72506e+006      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 305.724
+
+initial set of free parameter values
+
+D               = 1
+E               = 1
+F               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 0.27381
+rel. change during last iteration : -1.38704e-006
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.261634
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0684524
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+D               = -0.00686905      +/- 0.0002855    (4.156%)
+E               = -0.0317857       +/- 0.004944     (15.56%)
+F               = 51.1048          +/- 0.1511       (0.2956%)
+
+
+correlation matrix of the fit parameters:
+
+               D      E      F      
+D               1.000 
+E               0.000  1.000 
+F              -0.756 -0.000  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 12:59:22 2013
+
+
+FIT:    data read from '8_sonar_zk_data_3.txt' using 4:3
+        format = x:z
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: h(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 3.26721e+006      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 420.516
+
+initial set of free parameter values
+
+G               = 1
+H               = 1
+I               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 3.24143
+rel. change during last iteration : -1.03465e-006
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.900198
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.810357
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+G               = -0.00689286      +/- 0.0009822    (14.25%)
+H               = 0.0196429        +/- 0.02599      (132.3%)
+I               = 49.3571          +/- 0.4812       (0.9749%)
+
+
+correlation matrix of the fit parameters:
+
+               G      H      I      
+G               1.000 
+H               0.756  1.000 
+I              -0.612 -0.231  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 12:59:36 2013
+
+
+FIT:    data read from '8_sonar_zk_data_1.txt' using 4:3
+        format = x:z
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 3.28008e+006      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 420.516
+
+initial set of free parameter values
+
+A               = 1
+B               = 1
+C               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 5.19429
+rel. change during last iteration : -6.53703e-007
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.13955
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.29857
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+A               = -0.00978571      +/- 0.001243     (12.71%)
+B               = -0.0121429       +/- 0.0329       (270.9%)
+C               = 49.6571          +/- 0.6091       (1.227%)
+
+
+correlation matrix of the fit parameters:
+
+               A      B      C      
+A               1.000 
+B               0.756  1.000 
+C              -0.612 -0.231  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 12:59:36 2013
+
+
+FIT:    data read from '8_sonar_zk_data_2.txt' using 4:3
+        format = x:z
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.72506e+006      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 305.724
+
+initial set of free parameter values
+
+D               = 1
+E               = 1
+F               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 0.27381
+rel. change during last iteration : -1.38704e-006
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.261634
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0684524
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+D               = -0.00686905      +/- 0.0002855    (4.156%)
+E               = -0.0317857       +/- 0.004944     (15.56%)
+F               = 51.1048          +/- 0.1511       (0.2956%)
+
+
+correlation matrix of the fit parameters:
+
+               D      E      F      
+D               1.000 
+E               0.000  1.000 
+F              -0.756 -0.000  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 12:59:36 2013
+
+
+FIT:    data read from '8_sonar_zk_data_3.txt' using 4:3
+        format = x:z
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: h(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 3.26721e+006      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 420.516
+
+initial set of free parameter values
+
+G               = 1
+H               = 1
+I               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 3.24143
+rel. change during last iteration : -1.03465e-006
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.900198
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.810357
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+G               = -0.00689286      +/- 0.0009822    (14.25%)
+H               = 0.0196429        +/- 0.02599      (132.3%)
+I               = 49.3571          +/- 0.4812       (0.9749%)
+
+
+correlation matrix of the fit parameters:
+
+               G      H      I      
+G               1.000 
+H               0.756  1.000 
+I              -0.612 -0.231  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 13:01:25 2013
+
+
+FIT:    data read from '8_sonar_zk_data_1.txt' using 4:3
+        format = x:z
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 3.28008e+006      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 420.516
+
+initial set of free parameter values
+
+A               = 1
+B               = 1
+C               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 5.19429
+rel. change during last iteration : -6.53703e-007
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.13955
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.29857
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+A               = -0.00978571      +/- 0.001243     (12.71%)
+B               = -0.0121429       +/- 0.0329       (270.9%)
+C               = 49.6571          +/- 0.6091       (1.227%)
+
+
+correlation matrix of the fit parameters:
+
+               A      B      C      
+A               1.000 
+B               0.756  1.000 
+C              -0.612 -0.231  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 13:01:25 2013
+
+
+FIT:    data read from '8_sonar_zk_data_2.txt' using 4:3
+        format = x:z
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.72506e+006      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 305.724
+
+initial set of free parameter values
+
+D               = 1
+E               = 1
+F               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 0.27381
+rel. change during last iteration : -1.38704e-006
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.261634
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0684524
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+D               = -0.00686905      +/- 0.0002855    (4.156%)
+E               = -0.0317857       +/- 0.004944     (15.56%)
+F               = 51.1048          +/- 0.1511       (0.2956%)
+
+
+correlation matrix of the fit parameters:
+
+               D      E      F      
+D               1.000 
+E               0.000  1.000 
+F              -0.756 -0.000  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 13:01:26 2013
+
+
+FIT:    data read from '8_sonar_zk_data_3.txt' using 4:3
+        format = x:z
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: h(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 3.26721e+006      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 420.516
+
+initial set of free parameter values
+
+G               = 1
+H               = 1
+I               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 3.24143
+rel. change during last iteration : -1.03465e-006
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.900198
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.810357
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+G               = -0.00689286      +/- 0.0009822    (14.25%)
+H               = 0.0196429        +/- 0.02599      (132.3%)
+I               = 49.3571          +/- 0.4812       (0.9749%)
+
+
+correlation matrix of the fit parameters:
+
+               G      H      I      
+G               1.000 
+H               0.756  1.000 
+I              -0.612 -0.231  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 15:53:05 2013
+
+
+FIT:    data read from '8_sonar_zk_data_1.txt' using 4:3
+        format = x:z
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 3.28008e+006      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 420.516
+
+initial set of free parameter values
+
+A               = 1
+B               = 1
+C               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 5.19429
+rel. change during last iteration : -6.53703e-007
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.13955
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.29857
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+A               = -0.00978571      +/- 0.001243     (12.71%)
+B               = -0.0121429       +/- 0.0329       (270.9%)
+C               = 49.6571          +/- 0.6091       (1.227%)
+
+
+correlation matrix of the fit parameters:
+
+               A      B      C      
+A               1.000 
+B               0.756  1.000 
+C              -0.612 -0.231  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 15:53:05 2013
+
+
+FIT:    data read from '8_sonar_zk_data_2.txt' using 4:3
+        format = x:z
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.72506e+006      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 305.724
+
+initial set of free parameter values
+
+D               = 1
+E               = 1
+F               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 0.27381
+rel. change during last iteration : -1.38704e-006
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.261634
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0684524
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+D               = -0.00686905      +/- 0.0002855    (4.156%)
+E               = -0.0317857       +/- 0.004944     (15.56%)
+F               = 51.1048          +/- 0.1511       (0.2956%)
+
+
+correlation matrix of the fit parameters:
+
+               D      E      F      
+D               1.000 
+E               0.000  1.000 
+F              -0.756 -0.000  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 15:53:05 2013
+
+
+FIT:    data read from '8_sonar_zk_data_3.txt' using 4:3
+        format = x:z
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: h(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 3.26721e+006      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 420.516
+
+initial set of free parameter values
+
+G               = 1
+H               = 1
+I               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 3.24143
+rel. change during last iteration : -1.03465e-006
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.900198
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.810357
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+G               = -0.00689286      +/- 0.0009822    (14.25%)
+H               = 0.0196429        +/- 0.02599      (132.3%)
+I               = 49.3571          +/- 0.4812       (0.9749%)
+
+
+correlation matrix of the fit parameters:
+
+               G      H      I      
+G               1.000 
+H               0.756  1.000 
+I              -0.612 -0.231  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 15:53:50 2013
+
+
+FIT:    data read from '8_sonar_zk_data_1.txt' using 4:3
+        format = x:z
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 3.28008e+006      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 420.516
+
+initial set of free parameter values
+
+A               = 1
+B               = 1
+C               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 5.19429
+rel. change during last iteration : -6.53703e-007
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.13955
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.29857
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+A               = -0.00978571      +/- 0.001243     (12.71%)
+B               = -0.0121429       +/- 0.0329       (270.9%)
+C               = 49.6571          +/- 0.6091       (1.227%)
+
+
+correlation matrix of the fit parameters:
+
+               A      B      C      
+A               1.000 
+B               0.756  1.000 
+C              -0.612 -0.231  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 15:53:50 2013
+
+
+FIT:    data read from '8_sonar_zk_data_2.txt' using 4:3
+        format = x:z
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.72506e+006      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 305.724
+
+initial set of free parameter values
+
+D               = 1
+E               = 1
+F               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 0.27381
+rel. change during last iteration : -1.38704e-006
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.261634
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0684524
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+D               = -0.00686905      +/- 0.0002855    (4.156%)
+E               = -0.0317857       +/- 0.004944     (15.56%)
+F               = 51.1048          +/- 0.1511       (0.2956%)
+
+
+correlation matrix of the fit parameters:
+
+               D      E      F      
+D               1.000 
+E               0.000  1.000 
+F              -0.756 -0.000  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 15:53:50 2013
+
+
+FIT:    data read from '8_sonar_zk_data_3.txt' using 4:3
+        format = x:z
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: h(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 3.26721e+006      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 420.516
+
+initial set of free parameter values
+
+G               = 1
+H               = 1
+I               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 3.24143
+rel. change during last iteration : -1.03465e-006
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.900198
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.810357
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+G               = -0.00689286      +/- 0.0009822    (14.25%)
+H               = 0.0196429        +/- 0.02599      (132.3%)
+I               = 49.3571          +/- 0.4812       (0.9749%)
+
+
+correlation matrix of the fit parameters:
+
+               G      H      I      
+G               1.000 
+H               0.756  1.000 
+I              -0.612 -0.231  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 15:54:05 2013
+
+
+FIT:    data read from '8_sonar_zk_data_1.txt' using 4:3
+        format = x:z
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 3.28008e+006      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 420.516
+
+initial set of free parameter values
+
+A               = 1
+B               = 1
+C               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 5.19429
+rel. change during last iteration : -6.53703e-007
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.13955
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.29857
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+A               = -0.00978571      +/- 0.001243     (12.71%)
+B               = -0.0121429       +/- 0.0329       (270.9%)
+C               = 49.6571          +/- 0.6091       (1.227%)
+
+
+correlation matrix of the fit parameters:
+
+               A      B      C      
+A               1.000 
+B               0.756  1.000 
+C              -0.612 -0.231  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 15:54:05 2013
+
+
+FIT:    data read from '8_sonar_zk_data_2.txt' using 4:3
+        format = x:z
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.72506e+006      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 305.724
+
+initial set of free parameter values
+
+D               = 1
+E               = 1
+F               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 0.27381
+rel. change during last iteration : -1.38704e-006
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.261634
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0684524
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+D               = -0.00686905      +/- 0.0002855    (4.156%)
+E               = -0.0317857       +/- 0.004944     (15.56%)
+F               = 51.1048          +/- 0.1511       (0.2956%)
+
+
+correlation matrix of the fit parameters:
+
+               D      E      F      
+D               1.000 
+E               0.000  1.000 
+F              -0.756 -0.000  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 15:54:05 2013
+
+
+FIT:    data read from '8_sonar_zk_data_3.txt' using 4:3
+        format = x:z
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: h(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 3.26721e+006      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 420.516
+
+initial set of free parameter values
+
+G               = 1
+H               = 1
+I               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 3.24143
+rel. change during last iteration : -1.03465e-006
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.900198
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.810357
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+G               = -0.00689286      +/- 0.0009822    (14.25%)
+H               = 0.0196429        +/- 0.02599      (132.3%)
+I               = 49.3571          +/- 0.4812       (0.9749%)
+
+
+correlation matrix of the fit parameters:
+
+               G      H      I      
+G               1.000 
+H               0.756  1.000 
+I              -0.612 -0.231  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 15:54:21 2013
+
+
+FIT:    data read from '8_sonar_zk_data_1.txt' using 4:3
+        format = x:z
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 3.28008e+006      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 420.516
+
+initial set of free parameter values
+
+A               = 1
+B               = 1
+C               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 5.19429
+rel. change during last iteration : -6.53703e-007
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.13955
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.29857
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+A               = -0.00978571      +/- 0.001243     (12.71%)
+B               = -0.0121429       +/- 0.0329       (270.9%)
+C               = 49.6571          +/- 0.6091       (1.227%)
+
+
+correlation matrix of the fit parameters:
+
+               A      B      C      
+A               1.000 
+B               0.756  1.000 
+C              -0.612 -0.231  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 15:54:21 2013
+
+
+FIT:    data read from '8_sonar_zk_data_2.txt' using 4:3
+        format = x:z
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.72506e+006      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 305.724
+
+initial set of free parameter values
+
+D               = 1
+E               = 1
+F               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 0.27381
+rel. change during last iteration : -1.38704e-006
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.261634
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0684524
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+D               = -0.00686905      +/- 0.0002855    (4.156%)
+E               = -0.0317857       +/- 0.004944     (15.56%)
+F               = 51.1048          +/- 0.1511       (0.2956%)
+
+
+correlation matrix of the fit parameters:
+
+               D      E      F      
+D               1.000 
+E               0.000  1.000 
+F              -0.756 -0.000  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 15:54:21 2013
+
+
+FIT:    data read from '8_sonar_zk_data_3.txt' using 4:3
+        format = x:z
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: h(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 3.26721e+006      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 420.516
+
+initial set of free parameter values
+
+G               = 1
+H               = 1
+I               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 3.24143
+rel. change during last iteration : -1.03465e-006
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.900198
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.810357
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+G               = -0.00689286      +/- 0.0009822    (14.25%)
+H               = 0.0196429        +/- 0.02599      (132.3%)
+I               = 49.3571          +/- 0.4812       (0.9749%)
+
+
+correlation matrix of the fit parameters:
+
+               G      H      I      
+G               1.000 
+H               0.756  1.000 
+I              -0.612 -0.231  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 15:55:18 2013
+
+
+FIT:    data read from '8_sonar_zk_data_1.txt' using 4:3
+        format = x:z
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 3.28008e+006      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 420.516
+
+initial set of free parameter values
+
+A               = 1
+B               = 1
+C               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 5.19429
+rel. change during last iteration : -6.53703e-007
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.13955
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.29857
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+A               = -0.00978571      +/- 0.001243     (12.71%)
+B               = -0.0121429       +/- 0.0329       (270.9%)
+C               = 49.6571          +/- 0.6091       (1.227%)
+
+
+correlation matrix of the fit parameters:
+
+               A      B      C      
+A               1.000 
+B               0.756  1.000 
+C              -0.612 -0.231  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 15:55:18 2013
+
+
+FIT:    data read from '8_sonar_zk_data_2.txt' using 4:3
+        format = x:z
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.72506e+006      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 305.724
+
+initial set of free parameter values
+
+D               = 1
+E               = 1
+F               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 0.27381
+rel. change during last iteration : -1.38704e-006
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.261634
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0684524
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+D               = -0.00686905      +/- 0.0002855    (4.156%)
+E               = -0.0317857       +/- 0.004944     (15.56%)
+F               = 51.1048          +/- 0.1511       (0.2956%)
+
+
+correlation matrix of the fit parameters:
+
+               D      E      F      
+D               1.000 
+E               0.000  1.000 
+F              -0.756 -0.000  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 15:55:18 2013
+
+
+FIT:    data read from '8_sonar_zk_data_3.txt' using 4:3
+        format = x:z
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: h(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 3.26721e+006      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 420.516
+
+initial set of free parameter values
+
+G               = 1
+H               = 1
+I               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 3.24143
+rel. change during last iteration : -1.03465e-006
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.900198
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.810357
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+G               = -0.00689286      +/- 0.0009822    (14.25%)
+H               = 0.0196429        +/- 0.02599      (132.3%)
+I               = 49.3571          +/- 0.4812       (0.9749%)
+
+
+correlation matrix of the fit parameters:
+
+               G      H      I      
+G               1.000 
+H               0.756  1.000 
+I              -0.612 -0.231  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 15:56:11 2013
+
+
+FIT:    data read from '8_sonar_zk_data_1.txt' using 4:3
+        format = x:z
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 3.28008e+006      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 420.516
+
+initial set of free parameter values
+
+A               = 1
+B               = 1
+C               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 5.19429
+rel. change during last iteration : -6.53703e-007
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.13955
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.29857
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+A               = -0.00978571      +/- 0.001243     (12.71%)
+B               = -0.0121429       +/- 0.0329       (270.9%)
+C               = 49.6571          +/- 0.6091       (1.227%)
+
+
+correlation matrix of the fit parameters:
+
+               A      B      C      
+A               1.000 
+B               0.756  1.000 
+C              -0.612 -0.231  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 15:56:11 2013
+
+
+FIT:    data read from '8_sonar_zk_data_2.txt' using 4:3
+        format = x:z
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.72506e+006      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 305.724
+
+initial set of free parameter values
+
+D               = 1
+E               = 1
+F               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 0.27381
+rel. change during last iteration : -1.38704e-006
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.261634
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0684524
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+D               = -0.00686905      +/- 0.0002855    (4.156%)
+E               = -0.0317857       +/- 0.004944     (15.56%)
+F               = 51.1048          +/- 0.1511       (0.2956%)
+
+
+correlation matrix of the fit parameters:
+
+               D      E      F      
+D               1.000 
+E               0.000  1.000 
+F              -0.756 -0.000  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 15:56:11 2013
+
+
+FIT:    data read from '8_sonar_zk_data_3.txt' using 4:3
+        format = x:z
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: h(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 3.26721e+006      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 420.516
+
+initial set of free parameter values
+
+G               = 1
+H               = 1
+I               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 3.24143
+rel. change during last iteration : -1.03465e-006
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.900198
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.810357
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+G               = -0.00689286      +/- 0.0009822    (14.25%)
+H               = 0.0196429        +/- 0.02599      (132.3%)
+I               = 49.3571          +/- 0.4812       (0.9749%)
+
+
+correlation matrix of the fit parameters:
+
+               G      H      I      
+G               1.000 
+H               0.756  1.000 
+I              -0.612 -0.231  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 15:56:28 2013
+
+
+FIT:    data read from '8_sonar_zk_data_1.txt' using 4:3
+        format = x:z
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 3.28008e+006      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 420.516
+
+initial set of free parameter values
+
+A               = 1
+B               = 1
+C               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 5.19429
+rel. change during last iteration : -6.53703e-007
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.13955
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.29857
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+A               = -0.00978571      +/- 0.001243     (12.71%)
+B               = -0.0121429       +/- 0.0329       (270.9%)
+C               = 49.6571          +/- 0.6091       (1.227%)
+
+
+correlation matrix of the fit parameters:
+
+               A      B      C      
+A               1.000 
+B               0.756  1.000 
+C              -0.612 -0.231  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 15:56:28 2013
+
+
+FIT:    data read from '8_sonar_zk_data_2.txt' using 4:3
+        format = x:z
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: g(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.72506e+006      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 305.724
+
+initial set of free parameter values
+
+D               = 1
+E               = 1
+F               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 0.27381
+rel. change during last iteration : -1.38704e-006
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.261634
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0684524
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+D               = -0.00686905      +/- 0.0002855    (4.156%)
+E               = -0.0317857       +/- 0.004944     (15.56%)
+F               = 51.1048          +/- 0.1511       (0.2956%)
+
+
+correlation matrix of the fit parameters:
+
+               D      E      F      
+D               1.000 
+E               0.000  1.000 
+F              -0.756 -0.000  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 15:56:28 2013
+
+
+FIT:    data read from '8_sonar_zk_data_3.txt' using 4:3
+        format = x:z
+        #datapoints = 7
+        residuals are weighted equally (unit weight)
+
+function used for fitting: h(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 3.26721e+006      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 420.516
+
+initial set of free parameter values
+
+G               = 1
+H               = 1
+I               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 3.24143
+rel. change during last iteration : -1.03465e-006
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.900198
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.810357
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+G               = -0.00689286      +/- 0.0009822    (14.25%)
+H               = 0.0196429        +/- 0.02599      (132.3%)
+I               = 49.3571          +/- 0.4812       (0.9749%)
+
+
+correlation matrix of the fit parameters:
+
+               G      H      I      
+G               1.000 
+H               0.756  1.000 
+I              -0.612 -0.231  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 20:17:56 2013
+
+
+FIT:    data read from '8_sonar_if_data_3.txt' using 1:2
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 7.68619e+015      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 2.47196e+008
+
+initial set of free parameter values
+
+A               = 1
+B               = 1
+C               = 1
+D               = 1
+E               = 1
+
+After 23 iterations the fit converged.
+final sum of squares of residuals : 37.7385
+rel. change during last iteration : -3.53045e-006
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2.04772
+variance of residuals (reduced chisquare) = WSSR/ndf   : 4.19317
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+A               = 3.52658          +/- 0.8771       (24.87%)
+B               = -0.0173421       +/- 0.02832      (163.3%)
+C               = -1.36545         +/- 0.02247      (1.646%)
+D               = 39.9587          +/- 0.2276       (0.5695%)
+E               = 5.03452          +/- 0.5893       (11.71%)
+
+
+correlation matrix of the fit parameters:
+
+               A      B      C      D      E      
+A               1.000 
+B               0.010  1.000 
+C               0.038  0.037  1.000 
+D              -0.254  0.034 -0.113  1.000 
+E              -0.051  0.162 -0.290  0.191  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 20:20:33 2013
+
+
+FIT:    data read from '8_sonar_if_data_3.txt' using 1:2
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 7.68626e+015      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 2.25658e+008
+
+initial set of free parameter values
+
+A               = 1
+B               = 1
+C               = 1
+D               = 1
+E               = 1
+F               = 1
+
+After 115 iterations the fit converged.
+final sum of squares of residuals : 91.3423
+rel. change during last iteration : -2.96613e-006
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.37902
+variance of residuals (reduced chisquare) = WSSR/ndf   : 11.4178
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+A               = -0.0054292       +/- 0.1206       (2222%)
+B               = 0.3822           +/- 1.347        (352.3%)
+C               = 1.00117          +/- 2.729        (272.5%)
+D               = 1.15447          +/- 48.03        (4160%)
+E               = 4.75454          +/- 1.519        (31.95%)
+F               = 0.00659573       +/- 0.01815      (275.2%)
+
+
+correlation matrix of the fit parameters:
+
+               A      B      C      D      E      F      
+A               1.000 
+B               0.999  1.000 
+C               0.775  0.783  1.000 
+D              -0.765 -0.772 -1.000  1.000 
+E               0.133  0.126  0.375 -0.380  1.000 
+F              -0.170 -0.160 -0.598  0.607 -0.755  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 20:20:58 2013
+
+
+FIT:    data read from '8_sonar_if_data_3.txt' using 1:2
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 7.68613e+015      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 2.25658e+008
+
+initial set of free parameter values
+
+A               = 1
+B               = 1
+C               = 1
+D               = 1
+E               = 1
+F               = 1
+
+After 288 iterations the fit converged.
+final sum of squares of residuals : 65.578
+rel. change during last iteration : -5.99958e-006
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2.86308
+variance of residuals (reduced chisquare) = WSSR/ndf   : 8.19724
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+A               = -2.19268         +/- 1.247        (56.87%)
+B               = 0.0295331        +/- 0.04874      (165%)
+C               = 0.713257         +/- 0.06326      (8.869%)
+D               = 5.71113          +/- 0.6535       (11.44%)
+E               = 5.23524          +/- 1.125        (21.49%)
+F               = -0.00166044      +/- 0.009562     (575.9%)
+
+
+correlation matrix of the fit parameters:
+
+               A      B      C      D      E      F      
+A               1.000 
+B               0.595  1.000 
+C              -0.220  0.013  1.000 
+D               0.246  0.156 -0.732  1.000 
+E              -0.078 -0.257 -0.091  0.020  1.000 
+F              -0.021 -0.483 -0.351  0.067  0.681  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 20:25:08 2013
+
+
+FIT:    data read from '8_sonar_if_data_3.txt' using 1:2
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 462.346           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 0.154476
+
+initial set of free parameter values
+
+A               = 1
+B               = 1
+C               = 1
+D               = 1
+E               = 1
+F               = 1
+
+After 17 iterations the fit converged.
+final sum of squares of residuals : 379.291
+rel. change during last iteration : -5.15848e-006
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 6.88559
+variance of residuals (reduced chisquare) = WSSR/ndf   : 47.4114
+
+BREAK:          Singular matrix in Invert_RtR
+
+
+
+*******************************************************************************
+Fri Oct 11 20:25:15 2013
+
+
+FIT:    data read from '8_sonar_if_data_3.txt' using 1:2
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 462.346           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 0.154476
+
+initial set of free parameter values
+
+A               = 1
+B               = 1
+C               = 1
+D               = 1
+E               = 1
+F               = 1
+
+After 17 iterations the fit converged.
+final sum of squares of residuals : 379.291
+rel. change during last iteration : -5.15848e-006
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 6.88559
+variance of residuals (reduced chisquare) = WSSR/ndf   : 47.4114
+
+BREAK:          Singular matrix in Invert_RtR
+
+
+
+*******************************************************************************
+Fri Oct 11 20:25:28 2013
+
+
+FIT:    data read from '8_sonar_if_data_3.txt' using 1:2
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : inf               delta(WSSR)/WSSR   : nan
+ delta(WSSR) : nan               limit for stopping : 1e-005
+ lambda	  : 1.66689e+158
+
+initial set of free parameter values
+
+A               = 1
+B               = 1
+C               = 1
+D               = 1
+E               = 1
+F               = 1
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : inf
+rel. change during last iteration : nan
+
+degrees of freedom    (FIT_NDF)                        : 8
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : inf
+variance of residuals (reduced chisquare) = WSSR/ndf   : inf
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+A               = 1                +/- inf          (inf%)
+B               = 1                +/- inf          (inf%)
+C               = 1                +/- inf          (inf%)
+D               = 1                +/- inf          (inf%)
+E               = 1                +/- inf          (inf%)
+F               = 1                +/- inf          (inf%)
+
+
+correlation matrix of the fit parameters:
+
+               A      B      C      D      E      F      
+A               1.000 
+B              -1.000  1.000 
+C               1.000 -1.000  1.000 
+D              -1.000  1.000 -1.000  1.000 
+E              -1.000  1.000 -1.000  1.000  1.000 
+F               1.000 -1.000  1.000 -1.000 -1.000  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 20:26:21 2013
+
+
+FIT:    data read from '8_sonar_if_data_3.txt' using 1:2
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.19178e+297      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 2.1753e+150
+
+initial set of free parameter values
+
+C               = 1
+D               = 1
+F               = 1
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 2.31508e+296
+rel. change during last iteration : -4.1479
+
+degrees of freedom    (FIT_NDF)                        : 11
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 4.58762e+147
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.10462e+295
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+C               = 1.00008          +/- 1.295e+050   (1.295e+052%)
+D               = 1                +/- 2.27e+051    (2.27e+053%)
+F               = 0.99761          +/- 2.859e+047   (2.866e+049%)
+
+
+correlation matrix of the fit parameters:
+
+               C      D      F      
+C               1.000 
+D              -1.000  1.000 
+F               1.000 -1.000  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 20:26:27 2013
+
+
+FIT:    data read from '8_sonar_if_data_3.txt' using 1:2
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.19178e+297      delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 2.1753e+150
+
+initial set of free parameter values
+
+C               = 1
+D               = 1
+F               = 1
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 2.31508e+296
+rel. change during last iteration : -4.1479
+
+degrees of freedom    (FIT_NDF)                        : 11
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 4.58762e+147
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.10462e+295
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+C               = 1.00008          +/- 1.295e+050   (1.295e+052%)
+D               = 1                +/- 2.27e+051    (2.27e+053%)
+F               = 0.99761          +/- 2.859e+047   (2.866e+049%)
+
+
+correlation matrix of the fit parameters:
+
+               C      D      F      
+C               1.000 
+D              -1.000  1.000 
+F               1.000 -1.000  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 20:27:27 2013
+
+
+FIT:    data read from '8_sonar_if_data_3.txt' using 1:2
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 338.079           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 0.517558
+
+initial set of free parameter values
+
+A               = 1
+B               = 1
+C               = 1
+D               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 100.673
+rel. change during last iteration : -1.90721e-006
+
+degrees of freedom    (FIT_NDF)                        : 10
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.17289
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.0673
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+A               = 3.98528          +/- 1.752e+004   (4.395e+005%)
+B               = 5.26992          +/- 0.9567       (18.15%)
+C               = -11.2352         +/- 918.5        (8175%)
+D               = 3.77542          +/- 5965         (1.58e+005%)
+
+
+correlation matrix of the fit parameters:
+
+               A      B      C      D      
+A               1.000 
+B              -0.384  1.000 
+C              -0.977  0.393  1.000 
+D               1.000 -0.384 -0.977  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 20:27:41 2013
+
+
+FIT:    data read from '8_sonar_if_data_3.txt' using 1:2
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 338.079           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 0.46292
+
+initial set of free parameter values
+
+A               = 1
+B               = 1
+C               = 1
+D               = 1
+E               = 1
+BREAK:          Undefined value during function evaluation
+
+
+
+*******************************************************************************
+Fri Oct 11 20:27:49 2013
+
+
+FIT:    data read from '8_sonar_if_data_3.txt' using 1:2
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 338.079           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 0.46292
+
+initial set of free parameter values
+
+A               = 1
+B               = 1
+C               = 1
+D               = 1
+E               = 1
+BREAK:          Undefined value during function evaluation
+
+
+
+*******************************************************************************
+Fri Oct 11 20:28:04 2013
+
+
+FIT:    data read from '8_sonar_if_data_3.txt' using 1:2
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 338.079           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 0.46292
+
+initial set of free parameter values
+
+A               = 1
+B               = 1
+C               = 1
+D               = 1
+E               = 1
+BREAK:          Undefined value during function evaluation
+
+
+
+*******************************************************************************
+Fri Oct 11 20:28:09 2013
+
+
+FIT:    data read from '8_sonar_if_data_3.txt' using 1:2
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 338.058           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 0.462917
+
+initial set of free parameter values
+
+A               = 1
+B               = 1
+C               = 1
+D               = 1
+E               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 100.749
+rel. change during last iteration : -8.27515e-007
+
+degrees of freedom    (FIT_NDF)                        : 9
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.3458
+variance of residuals (reduced chisquare) = WSSR/ndf   : 11.1944
+
+BREAK:          Singular matrix in Invert_RtR
+
+
+
+*******************************************************************************
+Fri Oct 11 20:28:17 2013
+
+
+FIT:    data read from '8_sonar_if_data_3.txt' using 1:2
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 338.058           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 0.517557
+
+initial set of free parameter values
+
+A               = 1
+B               = 1
+C               = 1
+D               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 100.749
+rel. change during last iteration : -3.59744e-007
+
+degrees of freedom    (FIT_NDF)                        : 10
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.1741
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.0749
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+A               = 3.31873          +/- 3.853e+005   (1.161e+007%)
+B               = 5.27             +/- 0.957        (18.16%)
+C               = 3.57093          +/- 1.729e+005   (4.843e+006%)
+D               = 3.40994          +/- 4.196e+005   (1.231e+007%)
+
+
+correlation matrix of the fit parameters:
+
+               A      B      C      D      
+A               1.000 
+B              -0.191  1.000 
+C               0.486 -0.392  1.000 
+D               1.000 -0.191  0.486  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 20:28:42 2013
+
+
+FIT:    data read from '8_sonar_if_data_3.txt' using 1:2
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 338.198           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 0.517582
+
+initial set of free parameter values
+
+A               = 1
+B               = 1
+C               = 1
+D               = 1
+
+After 53 iterations the fit converged.
+final sum of squares of residuals : 100.267
+rel. change during last iteration : -9.27672e-006
+
+degrees of freedom    (FIT_NDF)                        : 10
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 3.16649
+variance of residuals (reduced chisquare) = WSSR/ndf   : 10.0267
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+A               = 3.18889          +/- 8.262        (259.1%)
+B               = 5.26311          +/- 0.9547       (18.14%)
+C               = 18.7946          +/- 213.8        (1138%)
+D               = 9.41424          +/- 409.1        (4346%)
+
+
+correlation matrix of the fit parameters:
+
+               A      B      C      D      
+A               1.000 
+B               0.079  1.000 
+C               0.040 -0.396  1.000 
+D              -0.916  0.040 -0.100  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 20:29:34 2013
+
+
+FIT:    data read from '8_sonar_if_data_3.txt' using 1:2
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 342.434           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 0.543189
+
+initial set of free parameter values
+
+A               = 1
+B               = 1
+C               = 1
+D               = 1
+
+After 224 iterations the fit converged.
+final sum of squares of residuals : 83.3517
+rel. change during last iteration : -9.88038e-006
+
+degrees of freedom    (FIT_NDF)                        : 10
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2.88707
+variance of residuals (reduced chisquare) = WSSR/ndf   : 8.33517
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+A               = 16.8823          +/- 833.9        (4939%)
+B               = 5.11603          +/- 0.8217       (16.06%)
+C               = 1.19217          +/- 3.433        (288%)
+D               = 1.82678          +/- 13.03        (713%)
+
+
+correlation matrix of the fit parameters:
+
+               A      B      C      D      
+A               1.000 
+B              -0.339  1.000 
+C               0.999 -0.340  1.000 
+D              -1.000  0.340 -0.999  1.000 
+
+
+*******************************************************************************
+Fri Oct 11 20:29:47 2013
+
+
+FIT:    data read from '8_sonar_if_data_3.txt' using 1:2
+        format = x:z
+        #datapoints = 14
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 343.191           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 0.619442
+
+initial set of free parameter values
+
+A               = 1
+B               = 1
+C               = 1
+D               = 1
+
+After 119 iterations the fit converged.
+final sum of squares of residuals : 68.0507
+rel. change during last iteration : -9.69357e-006
+
+degrees of freedom    (FIT_NDF)                        : 10
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2.60865
+variance of residuals (reduced chisquare) = WSSR/ndf   : 6.80507
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+A               = -14.0926         +/- 63.06        (447.5%)
+B               = 5.03412          +/- 0.6975       (13.85%)
+C               = -1.1815          +/- 0.3725       (31.53%)
+D               = 1.30258          +/- 1.273        (97.72%)
+
+
+correlation matrix of the fit parameters:
+
+               A      B      C      D      
+A               1.000 
+B               0.027  1.000 
+C               0.987  0.027  1.000 
+D              -0.995 -0.026 -0.983  1.000 
+
+
+*******************************************************************************
+Sat Oct 12 16:06:13 2013
+
+
+FIT:    data read from '8_sonar_vz.txt' using 1:2
+        format = x:z
+        #datapoints = 13
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 22819.4           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1.19288
+
+initial set of free parameter values
+
+A               = 1
+B               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 2.14279
+rel. change during last iteration : -5.60774e-011
+
+degrees of freedom    (FIT_NDF)                        : 11
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.44136
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.194799
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+A               = 33.325           +/- 0.2181       (0.6545%)
+B               = -1.23323         +/- 0.2963       (24.03%)
+
+
+correlation matrix of the fit parameters:
+
+               A      B      
+A               1.000 
+B              -0.911  1.000 
+
+
+*******************************************************************************
+Sat Oct 12 16:07:03 2013
+
+
+FIT:    data read from '8_sonar_vz.txt' using 1:2
+        format = x:z
+        #datapoints = 13
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 22819.4           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1.19288
+
+initial set of free parameter values
+
+A               = 1
+B               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 2.14279
+rel. change during last iteration : -5.60774e-011
+
+degrees of freedom    (FIT_NDF)                        : 11
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.44136
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.194799
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+A               = 33.325           +/- 0.2181       (0.6545%)
+B               = -1.23323         +/- 0.2963       (24.03%)
+
+
+correlation matrix of the fit parameters:
+
+               A      B      
+A               1.000 
+B              -0.911  1.000 
+
+
+*******************************************************************************
+Sat Oct 12 16:07:30 2013
+
+
+FIT:    data read from '8_sonar_vz.txt' using 1:2
+        format = x:z
+        #datapoints = 13
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 22819.4           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1.19288
+
+initial set of free parameter values
+
+A               = 1
+B               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 2.14279
+rel. change during last iteration : -5.60774e-011
+
+degrees of freedom    (FIT_NDF)                        : 11
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.44136
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.194799
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+A               = 33.325           +/- 0.2181       (0.6545%)
+B               = -1.23323         +/- 0.2963       (24.03%)
+
+
+correlation matrix of the fit parameters:
+
+               A      B      
+A               1.000 
+B              -0.911  1.000 
+
+
+*******************************************************************************
+Thu Oct 17 00:05:02 2013
+
+
+FIT:    data read from '8_sonar_vz.txt' using 1:2
+        format = x:z
+        #datapoints = 13
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 22819.4           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1.19288
+
+initial set of free parameter values
+
+A               = 1
+B               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 2.14279
+rel. change during last iteration : -5.60774e-011
+
+degrees of freedom    (FIT_NDF)                        : 11
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.44136
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.194799
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+A               = 33.325           +/- 0.2181       (0.6545%)
+B               = -1.23323         +/- 0.2963       (24.03%)
+
+
+correlation matrix of the fit parameters:
+
+               A      B      
+A               1.000 
+B              -0.911  1.000 
+
+
+*******************************************************************************
+Thu Oct 17 00:05:24 2013
+
+
+FIT:    data read from '8_sonar_vz.txt' using 1:2
+        format = x:z
+        #datapoints = 13
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 22819.4           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1.19288
+
+initial set of free parameter values
+
+A               = 1
+B               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 2.14279
+rel. change during last iteration : -5.60774e-011
+
+degrees of freedom    (FIT_NDF)                        : 11
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.44136
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.194799
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+A               = 33.325           +/- 0.2181       (0.6545%)
+B               = -1.23323         +/- 0.2963       (24.03%)
+
+
+correlation matrix of the fit parameters:
+
+               A      B      
+A               1.000 
+B              -0.911  1.000 
+
+
+*******************************************************************************
+Thu Oct 17 00:05:54 2013
+
+
+FIT:    data read from '8_sonar_vz.txt' using 1:2
+        format = x:z
+        #datapoints = 13
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 22819.4           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1.19288
+
+initial set of free parameter values
+
+A               = 1
+B               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 2.14279
+rel. change during last iteration : -5.60774e-011
+
+degrees of freedom    (FIT_NDF)                        : 11
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.44136
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.194799
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+A               = 33.325           +/- 0.2181       (0.6545%)
+B               = -1.23323         +/- 0.2963       (24.03%)
+
+
+correlation matrix of the fit parameters:
+
+               A      B      
+A               1.000 
+B              -0.911  1.000 
+
+
+*******************************************************************************
+Thu Oct 17 00:06:41 2013
+
+
+FIT:    data read from '8_sonar_vz.txt' using 1:2
+        format = x:z
+        #datapoints = 13
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 22819.4           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1.19288
+
+initial set of free parameter values
+
+A               = 1
+B               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 2.14279
+rel. change during last iteration : -5.60774e-011
+
+degrees of freedom    (FIT_NDF)                        : 11
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.44136
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.194799
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+A               = 33.325           +/- 0.2181       (0.6545%)
+B               = -1.23323         +/- 0.2963       (24.03%)
+
+
+correlation matrix of the fit parameters:
+
+               A      B      
+A               1.000 
+B              -0.911  1.000 
+
+
+*******************************************************************************
+Thu Oct 17 00:07:03 2013
+
+
+FIT:    data read from '8_sonar_vz.txt' using 1:2
+        format = x:z
+        #datapoints = 13
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 22819.4           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1.19288
+
+initial set of free parameter values
+
+A               = 1
+B               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 2.14279
+rel. change during last iteration : -5.60774e-011
+
+degrees of freedom    (FIT_NDF)                        : 11
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.44136
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.194799
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+A               = 33.325           +/- 0.2181       (0.6545%)
+B               = -1.23323         +/- 0.2963       (24.03%)
+
+
+correlation matrix of the fit parameters:
+
+               A      B      
+A               1.000 
+B              -0.911  1.000 
+
+
+*******************************************************************************
+Thu Oct 17 00:07:46 2013
+
+
+FIT:    data read from '8_sonar_vz.txt' using 1:2
+        format = x:z
+        #datapoints = 13
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 22819.4           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 1.19288
+
+initial set of free parameter values
+
+A               = 1
+B               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 2.14279
+rel. change during last iteration : -5.60774e-011
+
+degrees of freedom    (FIT_NDF)                        : 11
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.44136
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.194799
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+A               = 33.325           +/- 0.2181       (0.6545%)
+B               = -1.23323         +/- 0.2963       (24.03%)
+
+
+correlation matrix of the fit parameters:
+
+               A      B      
+A               1.000 
+B              -0.911  1.000 
