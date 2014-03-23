@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2013.10.4)  9 FEB 2014 15:14
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2013.10.4)  9 FEB 2014 22:03
 entering extended mode
 **01_cave.tex
 (C:\Repa\praktika\ZS_2013\01_cave\tex\01_cave.tex
@@ -30,13 +30,6 @@ File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty"
-Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.def"
-File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
-LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
-))
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty"
 Package: inputenc 2008/03/30 v1.1d Input encoding file
 \inpenc@prehook=\toks14
@@ -833,10 +826,10 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 72.
 LaTeX Font Info:    ... okay on input line 72.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 72.
 LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Try loading font information for T1+lmr on input line 72.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 72.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\lm\t1lmr.fd"
-File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+("C:\Program Files\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd"
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -916,11 +909,6 @@ LaTeX Info: Redefining \nameref on input line 72.
 (C:\Repa\praktika\ZS_2013\01_cave\tex\01_cave.out)
 (C:\Repa\praktika\ZS_2013\01_cave\tex\01_cave.out)
 \@outlinefile=\write3
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 94.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd"
-File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
 LaTeX Font Info:    Try loading font information for OML+lmm on input line 94.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\omllmm.fd"
@@ -952,7 +940,7 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 94.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \hbox (49.94507pt too wide) in paragraph at lines 93--99
+Overfull \hbox (50.50063pt too wide) in paragraph at lines 93--99
 [] 
  []
 
@@ -984,7 +972,7 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 
 [5
 
-] <att/obr1.pdf, id=175, 246.9225pt x 237.2865pt>
+] <att/obr1.pdf, id=174, 246.9225pt x 237.2865pt>
 File: att/obr1.pdf Graphic file (type pdf)
  <use att/obr1.pdf>
 Package pdftex.def Info: att/obr1.pdf used on input line 325.
@@ -994,7 +982,7 @@ Package pdftex.def Info: att/obr1.pdf used on input line 325.
 pdfTeX warning: pdflatex.exe (file C:/Repa/praktika/ZS_2013/01_cave/tex/att/obr
 2.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allow
 ed
-<att/obr2.pdf, id=177, 489.01454pt x 223.72685pt>
+<att/obr2.pdf, id=176, 489.01454pt x 223.72685pt>
 File: att/obr2.pdf Graphic file (type pdf)
  <use att/obr2.pdf>
 Package pdftex.def Info: att/obr2.pdf used on input line 335.
@@ -1002,14 +990,14 @@ Package pdftex.def Info: att/obr2.pdf used on input line 335.
  [6
 
  <C:/Repa/praktika/ZS_2013/01_cave/tex/att/obr1.pdf> <C:/Repa/praktika/ZS_2013/
-01_cave/tex/att/obr2.pdf>] <../gnuplot/data_1.pdf, id=273, 433.62pt x 289.08pt>
+01_cave/tex/att/obr2.pdf>] <../gnuplot/data_1.pdf, id=272, 433.62pt x 289.08pt>
 File: ../gnuplot/data_1.pdf Graphic file (type pdf)
 
 <use ../gnuplot/data_1.pdf>
 Package pdftex.def Info: ../gnuplot/data_1.pdf used on input line 350.
 (pdftex.def)             Requested size: 500.484pt x 333.67448pt.
 
-<../gnuplot/data_2.pdf, id=276, 433.62pt x 289.08pt>
+<../gnuplot/data_2.pdf, id=275, 433.62pt x 289.08pt>
 File: ../gnuplot/data_2.pdf Graphic file (type pdf)
 
 <use ../gnuplot/data_2.pdf>
@@ -1034,37 +1022,36 @@ Package rerunfilecheck Info: File `01_cave.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 371.
  ) 
 Here is how much of TeX's memory you used:
- 11153 strings out of 493921
- 153909 string characters out of 3147282
- 228940 words of memory out of 3000000
- 14230 multiletter control sequences out of 15000+200000
- 37894 words of font info for 34 fonts, out of 3000000 for 9000
+ 11104 strings out of 493921
+ 152834 string characters out of 3147282
+ 231884 words of memory out of 3000000
+ 14191 multiletter control sequences out of 15000+200000
+ 36732 words of font info for 33 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  29i,10n,28p,1017b,346s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathex.enc}{C:/Program Fil
 es/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Program Files/MiKTeX 2.9/fon
-ts/enc/dvips/lm/lm-rm.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ma
-thit.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}<C:/Program 
-Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/Mi
-KTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9
-/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
-ype1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
-ic/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfon
-ts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8
-.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/
-Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Program 
-Files/MiKTeX 2.9/fonts/type1/public/lm/lmbx10.pfb><C:/Program Files/MiKTeX 2.9/
-fonts/type1/public/lm/lmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publi
-c/lm/lmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmmi10.pfb><
-C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmmi9.pfb><C:/Program Files/M
-iKTeX 2.9/fonts/type1/public/lm/lmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
-pe1/public/lm/lmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr9
-.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmri10.pfb><C:/Program 
-Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb><C:/Program Files/MiKTeX 2.9/
-fonts/type1/public/lm/lmsy9.pfb>
-Output written on 01_cave.pdf (7 pages, 940883 bytes).
+ts/enc/dvips/lm/lm-mathit.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/l
+m-rm.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Pro
+gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Fil
+es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfo
+nts/cm/cmsy7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
+tt10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmbx10.pfb><C:/Prog
+ram Files/MiKTeX 2.9/fonts/type1/public/lm/lmbx12.pfb><C:/Program Files/MiKTeX 
+2.9/fonts/type1/public/lm/lmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/p
+ublic/lm/lmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmmi9.pf
+b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr10.pfb><C:/Program File
+s/MiKTeX 2.9/fonts/type1/public/lm/lmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts
+/type1/public/lm/lmr9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lm
+ri10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb><C:/Prog
+ram Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy9.pfb>
+Output written on 01_cave.pdf (7 pages, 935157 bytes).
 PDF statistics:
- 395 PDF objects out of 1000 (max. 8388607)
+ 392 PDF objects out of 1000 (max. 8388607)
  65 named destinations out of 1000 (max. 500000)
  175 words of extra memory for PDF output out of 10000 (max. 10000000)
 
