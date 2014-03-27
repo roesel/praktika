@@ -1,11 +1,25 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python27
 # -*- coding: utf-8 -*-
-
+'''
+Info: Skript k úloze 
+            "13 B - Měření teploty plazmatu v tokamaku GOLEM",
+      který si stáhne naměřená data ke specifikovaným shotům, na stanoveném 
+      časovém intervalu spočítá průměrnou elektronovou teplotu, vynese V-A
+      charakteristiku a proloží ji pro získání lokální teploty. 
+      
+      Jako vedlejší produkt vytvoří grafy a vhodně slepené texťáky pro GNUplot.
+      V budoucnu by stálo za to předělat skript tak, aby všechny grafy vyrobil
+      sám a nemusel se vůbec spoléhat na GNUplot. 
+      
+      Feel free to edit and improve.
+      
+roesel@gmail.com
+'''
 from __future__ import division
 from itertools import izip
 import matplotlib.pyplot as plt
-from scipy import *
-from scipy import optimize
+import numpy as np
+from scipy.optimize import curve_fit
 import math
 import urllib2
 import os
@@ -25,6 +39,11 @@ maxU          = -30
 # ---- KONEC UPRAVOVANI ----
 
 flag_redownload = False
+
+def round_by_err(x, x_err):
+    x_err = round(x_err, -int(math.floor(math.log10(x_err))))
+    x = round(x, -int(math.floor(math.log10(x_err))))
+    return x, x_err
 
 def download(base, shot_number, data_name):
     if not os.path.exists('files'):
@@ -117,15 +136,18 @@ for i in range(0,len(shot_numbers)):
     T = sum(Tsum) / len(Tsum)
     Tsum2 = [(x-T)*(x-T) for x in Tsum]
     T_err = math.sqrt(sum(Tsum2)/(len(Tsum2)-1))
-    print("Avg T for shot #"+shot_numbers[i]+" is ("+"{:5.2f}".format(T)+" +- "+"{:4.2f}".format(T_err)+")")
-    output2 += "Avg T for shot #"+shot_numbers[i]+" is ("+"{:5.2f}".format(T)+" +- "+"{:4.2f}".format(T_err)+")\n"
+    
+    param = "(%s +- %s)" % round_by_err(T, T_err)
+    
+    print("Avg T for shot #"+shot_numbers[i]+" is "+param+" eV")
+    output2 += "Avg T for shot #"+shot_numbers[i]+" is "+param+" eV\n"
 
     # Open a file
     fo = open(output_name, "wb")
     fo.write(output);
     fo.close()
     
-    # dost mozna vubec nepotrbuju output    
+    # dost mozna vubec nepotrebuju output    
 
 fo = open('output/T_merge__output.txt', "wb")
 fo.write(output2);
@@ -163,44 +185,39 @@ for shot_number in shot_numbers:
     fo = open(output_name, "wb")
     fo.write(output)
     fo.close()
-    #print("File "+output_name+" sucessfully saved!")
-    
     
     # Finished outputting file for GNUplot, time to pyplot ourselves
-    max_s = int(float(maxs[k])*10**6)
-    min_s = int(float(mins[k])*10**6)
+    max_s = int(float(maxs[k])*1e6)
+    min_s = int(float(mins[k])*1e6)
 
-    # Fit the first set
-    fitfunc = lambda p, x: p[0]*(1-exp((x-p[1])/p[2]))  # Target function
-    errfunc = lambda p, x, y: fitfunc(p, x) - y  # Distance to the target function
-    p0 = [0.011, -53.2, 16] # Initial guess for the parameters
+    def fitfunc(x, a, b, c):
+        return a*(1-np.exp((x-b)/c))
     
     subUt = U[min_s:max_s]
     subU = [subUt[i] for i in range(0, len(subUt)) if subUt[i] <= maxU]
     subIt = I[min_s:max_s]
     subI = [subIt[i] for i in range(0, len(subUt)) if subUt[i] <= maxU]
     
-    p1,cov,infodict,mesg,ier = optimize.leastsq(errfunc, p0[:], args=(subU, subI), full_output=True)
+    p0 = [0.011, -53.2, 16]
+    popt, pcov = curve_fit(fitfunc, subU, subI, p0)
+        
+    pars_ = [round_by_err(popt[i], math.sqrt(pcov[i][i])) for i in range(0, len(pcov))]
+    pars = ["(%s +- %s)" % round_by_err(popt[i], math.sqrt(pcov[i][i])) for i in range(0, len(pcov))]
     
-    #plt.clf()
     plt.figure(k+1)
-    plt.legend(["V-A char. pro #"+shot_number, "fit   C="+str(p1[2])])
-    print("V-A char. T (fit) for shot #"+shot_number+" is ("+"{:5.2f}".format(p1[2])+" +- ??)")
-    
-    #print p1
-    
+     
     line1 = plt.plot(subUt, subIt, linestyle='--', linewidth=0.1, antialiased=True)
-    line2 = plt.plot(subUt, fitfunc(p1, subUt), linewidth=0.1, antialiased=True)
+    line2 = plt.plot(subUt, fitfunc(subUt, popt[0], popt[1], popt[2]), linewidth=0.1, antialiased=True)
+    
+    plt.legend(["V-A char. pro #"+shot_number, "fit   C="+str(pars[2])])
+    print("V-A T for shot #"+shot_number+" is "+str(pars[2])+" eV")
+   
     plt.setp(line1, color='y', linewidth=1.0)
     plt.setp(line2, color='g', linewidth=1.0)
     plt.ylabel('I [A]')
     plt.xlabel('U [V]')
     plt.savefig('graphs/VA_merge_'+str(shot_number)+'.png')
-    
-    #plt.show()    
-    
+        
     k+=1
-    
-    #max_s = int(float(maxs[k])*10**6)
     
 print("\n----\nVA files merged!\n----\n")
