@@ -1,0 +1,8 @@
+#VA data from fits
+Fit T for shot #14681 on 0.02250 - 0.02300 is $(21.9 \pm 0.5)$
+Fit T for shot #14683 on 0.02475 - 0.02525 is $(20.6 \pm 0.5)$
+Fit T for shot #14685 on 0.02445 - 0.02495 is $(19.0 \pm 0.6)$
+Fit T for shot #14709 on 0.02250 - 0.02300 is $(19.3 \pm 0.8)$
+Fit T for shot #14710 on 0.02250 - 0.02300 is $(20.1 \pm 1.1)$
+Fit T for shot #14711 on 0.02250 - 0.02300 is $(17.8 \pm 0.5)$
+Fit T for shot #14712 on 0.02250 - 0.02300 is $(19.1 \pm 0.4)$

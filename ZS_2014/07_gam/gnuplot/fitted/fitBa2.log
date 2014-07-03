@@ -1,0 +1,50 @@
+
+
+*******************************************************************************
+Sun Mar 02 11:10:04 2014
+
+
+FIT:    data read from name.".txt" using (cal($1)):($2)
+        format = x:z
+	y range restricted to [350.000 : 430.000]
+        #datapoints = 121
+        residuals are weighted equally (unit weight)
+
+function used for fitting: gauss(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 748763            delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 19.4781
+
+initial set of free parameter values
+
+position        = 382.621
+sigma           = 30.2987
+amplitude       = 100768
+
+After 1 iterations the fit converged.
+final sum of squares of residuals : 748763
+rel. change during last iteration : -6.21908e-016
+
+degrees of freedom    (FIT_NDF)                        : 118
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 79.6583
+variance of residuals (reduced chisquare) = WSSR/ndf   : 6345.45
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+position        = 382.621          +/- 0.3812       (0.09962%)
+sigma           = 30.2987          +/- 0.527        (1.739%)
+amplitude       = 100768           +/- 1359         (1.349%)
+
+
+correlation matrix of the fit parameters:
+
+               positi sigma  amplit 
+position        1.000 
+sigma          -0.366  1.000 
+amplitude      -0.367  0.856  1.000 

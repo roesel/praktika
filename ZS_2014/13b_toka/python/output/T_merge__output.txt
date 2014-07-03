@@ -1,0 +1,8 @@
+#T computed from loop_voltage and plasma_current
+Avg T for shot #14681 is (10.72 +- 0.11)
+Avg T for shot #14683 is (10.82 +- 0.10)
+Avg T for shot #14685 is (11.47 +- 0.13)
+Avg T for shot #14709 is (10.72 +- 0.11)
+Avg T for shot #14710 is (10.77 +- 0.12)
+Avg T for shot #14711 is (10.75 +- 0.13)
+Avg T for shot #14712 is (10.79 +- 0.12)

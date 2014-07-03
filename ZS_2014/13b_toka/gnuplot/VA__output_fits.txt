@@ -1,0 +1,8 @@
+#VA data from fits
+f(x) =	(0.0123 \pm 0.0003) \left(1-\mathrm{exp}\left(\frac{x-(-56.3\pm 0.2)}{(21.9\pm 0.5)}\right)\right)
+f(x) =	(0.0118 \pm 0.0003) \left(1-\mathrm{exp}\left(\frac{x-(-57.7\pm 0.2)}{(20.6\pm 0.5)}\right)\right)
+f(x) =	(0.0115 \pm 0.0003) \left(1-\mathrm{exp}\left(\frac{x-(-53.5\pm 0.3)}{(19.0\pm 0.6)}\right)\right)
+f(x) =	(0.0128 \pm 0.0003) \left(1-\mathrm{exp}\left(\frac{x-(-42.1\pm 0.2)}{(19.3\pm 0.8)}\right)\right)
+f(x) =	(0.0094 \pm 0.0004) \left(1-\mathrm{exp}\left(\frac{x-(-48.6\pm 0.4)}{(20.1\pm 1.1)}\right)\right)
+f(x) =	(0.0118 \pm 0.0003) \left(1-\mathrm{exp}\left(\frac{x-(-52.5\pm 0.2)}{(17.8\pm 0.5)}\right)\right)
+f(x) =	(0.0119 \pm 0.0002) \left(1-\mathrm{exp}\left(\frac{x-(-53.3\pm 0.2)}{(19.1\pm 0.4)}\right)\right)
